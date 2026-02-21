@@ -1,7 +1,7 @@
 **👋 Hi there, I'm **SUNNY KUMAR****
 
 **🎓 B.Tech – Computer Science Engineering (3rd Year)
-🏫 Government Engineering College Sheikhpura
+🏫 Government Engineering College Sheikhpura,Bihar
 🇮🇳 India**
 
 💡 Aspiring Software Developer | DevOps & Cloud Enthusiast
